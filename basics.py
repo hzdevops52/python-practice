@@ -1,6 +1,6 @@
 print("Hello")
 name = "hassan"
-print("my name is",name)
+print("my name is",name
 
 #if else if statement
 
