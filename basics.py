@@ -1,5 +1,5 @@
 print("Hello")
-name = "hassan"
+name = "jenkins_test"
 print("my name is",name)
 
 #if else if statement
@@ -95,4 +95,5 @@ print("multiple is",output)
 
 output = nbr1 % nbr2
 print("remainder is",output)
+
 
