@@ -12,7 +12,7 @@ else:
     print("its not a weekend")
 
 
-#simle calculator
+#simple calculator
 
 num1 = float(input("enter the first nbr:"))
 num2 = float(input("enter the first nbr:"))
@@ -95,3 +95,4 @@ print("multiple is",output)
 
 output = nbr1 % nbr2
 print("remainder is",output)
+
