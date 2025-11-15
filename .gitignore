@@ -1,40 +1,24 @@
-# Byte-compiled / optimized / compiled files
+# Python bytecode
 __pycache__/
 *.pyc
-*.pyd
 *.pyo
-*.egg-info/
-.pytest_cache/
-
-# Distributions
-dist/
-build/
-*.egg
-*.whl
+*.pyd
 
 # Virtual environment
 venv/
-.venv/
-env/
 .env/
 
-# Editor/IDE specific files
-.vscode/
-.idea/
-*.swp
-*.bak
-*~
-*.log
-*.sqlite3
-*.db
+# CSV and data files
+*.csv
+*.txt
 
-# OS generated files
+# System files
 .DS_Store
 Thumbs.db
 
-# Jupyter Notebook files
-.ipynb_checkpoints/
+# PyCharm / VSCode
+.idea/
+.vscode/
 
-# Miscellaneous
-temp/
-tmp/
+# Logs
+*.log
